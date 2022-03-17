@@ -13,4 +13,15 @@ fun main(){
     println(result)
 
 
+    //Multi line strings
+    val sentence = """
+        this is a multi line string
+        we can continuously write the data here
+        in many lines
+    """.trimIndent()
+
+    println(sentence)
+
+
+
 }
