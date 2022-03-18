@@ -1,12 +1,20 @@
 //Null Safety and Nullable Types
 fun main() {
 
-   var name :String = "Apple"
-//   println(name.length)
 
-    var fruit :String? = "mango"
-    fruit = null
-    println(fruit?.length)
+    var car :String? = null
+
+    car = "bmw"
+//    if( car != null){
+//        println("car name is $car")
+//    }else{
+//        println("car name is null")
+//    }
+
+    //Safe calls
+    println("car name is $car")
+
+
 
 
 
