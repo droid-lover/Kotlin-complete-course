@@ -1,22 +1,11 @@
 //Null Safety and Nullable Types
 fun main() {
 
+    //elvis operator
+    var name :String? = "Ron"
 
-    var car :String? = null
-
-    //traditional way
-//    if(car != null){
-//        println("car name is $car")
-//    }else{
-//        println("car name is null")
-//    }
-
-    //Using elvis operator
-    car = "Audi"
-    println( car ?: "Null" )
-
-
-
+    name = null
+    println(name?.length?:0)
 
 
 }
