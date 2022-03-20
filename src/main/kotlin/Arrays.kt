@@ -1,14 +1,14 @@
 //Arrays
 fun main(){
 
-    //String Array
-    val superheros = arrayOf("Ironman","spidy","hulk")
+    //Int Array
+    val numbers = arrayOf(1,2,3,4,5,6)
 
-    //Float array
-    val floatValues = arrayOf(3.4f,1.2f,0.06f,10.0f)
+    for( i in numbers){
+        println(i)
+    }
 
-    //Any mix elements array
-    val mixArray = arrayOf<Any>(1,"two",3.0f,4.0)
+
 
 
 }
