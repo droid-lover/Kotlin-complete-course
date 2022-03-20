@@ -4,6 +4,9 @@ fun main() {
     //closed range
     val numbers = 0..5
     //0,1,2,3,4,5
+    for (digit in numbers){
+        println(digit)
+    }
 
 
     //half_open range
