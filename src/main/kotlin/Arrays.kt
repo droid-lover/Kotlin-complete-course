@@ -6,8 +6,10 @@ fun main(){
 
     println(numbers[0])
 
-    println(numbers.size)
+//    println(numbers.size)
 
+    numbers[0] = 10
+    println(numbers[0])
 
 
 
