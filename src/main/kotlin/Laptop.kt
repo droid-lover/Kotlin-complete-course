@@ -1,10 +1,8 @@
 //a kotlin class
-class Laptop(brandValue: String, ramValue: Int, year: String) {
+open class Laptop(brandValue: String, ramValue: Int, year: String) {
 
     var brand: String = brandValue
-
     var ram: Int = ramValue
-
     var builtYear: String = year
 
 
