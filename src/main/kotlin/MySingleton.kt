@@ -6,7 +6,7 @@ object MySingleton {
         print("I am a function")
     }
 
-}
+} 
 
 fun main() {
 
