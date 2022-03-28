@@ -1,19 +1,22 @@
-# Kotlin-complete-course
+# <a href="https://youtu.be/4cryd3Cacro">Kotlin-complete-course </a> 
+
+ 
+
 
  Welcome to this Kotlin crashcourse. Well, this repo is kind of a boot-camp based on my experience with Kotlin over the last few years.
 
- #### This project covers all the necessary concepts in KOTLIN programming language, this will be helpful for you :
+ #### <a href="https://youtu.be/4cryd3Cacro"> This project covers all the necessary concepts in KOTLIN programming language, this will be helpful for you : </a> 
 
-- if you are exploring #android or #kotlin or maybe you are a complete beginner and want to learn Kotlin completely 
+#### - if you are exploring #android or #kotlin or maybe you are a complete beginner and want to learn Kotlin completely 
 
-- or if you are experienced #kotlindeveloper then it will help you brush up Kotlin concepts.
+#### - or if you are experienced #kotlindeveloper then it will help you brush up Kotlin concepts.
 
 also, This is a sample project created to show the implementation we covered in my 
 Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> (Native Mobile Bits) </a>  's Kotlin crashcourse.
 
 
 #### This project contains all esstenial KOTLIN PROGRAMMINS LANGUAGE concepts with examples 😃🚀 :
-Kotlin crash-course content:
+<a href="https://youtu.be/4cryd3Cacro"> Kotlin crash-course content: </a> 
 
  - Introduction </br>
  - Kotlin origin & advantages </br>
