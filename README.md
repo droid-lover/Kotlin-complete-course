@@ -13,7 +13,64 @@ Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qy
 
 
 #### This project contains all esstenial KOTLIN PROGRAMMINS LANGUAGE concepts with examples 😃🚀 :
- - 
+Kotlin crash-course content:
+
+ - Introduction </br>
+ - Kotlin origin & advantages </br>
+ - IntelliJ installation </br>
+ - Project structure </br>
+ - How to create a Hello World's program in Kotlin </br>
+ - How to print something & add some comments in Kotlin </br>
+ - Variables in Kotlin (Var & Val) </br>
+ - DataTypes  in Kotlin </br>
+ - Type Conversion in Kotlin </br>
+ - Type Inference  in Kotlin </br>
+ - Strings in Kotlin </br>
+ - String templates & Multi line strings </br>
+ - Pairs in Kotlin </br>
+ - Triples in Kotlin </br>
+ - Any type in Kotlin </br>
+ - Unit type in Kotlin </br>
+ - Conditional expressions in Kotlin</br>
+ - If else expression </br>
+ - How to get some output from if else expression in Kotlin</br>
+ - Multiple if-else expression ladder in Kotlin </br>
+ - When expression in Kotlin </br>
+ - Enhancements in when expression code  in Kotlin </br>
+ - Ranges inside When expression in Kotlin  </br>
+ - Ranges inside When expression in Kotlin  </br>
+ - Different types of Ranges in details in Kotlin </br> 
+ - Null Safety concept (Nullable Variables Types) in Kotlin </br>
+ - How to handle nullable types with Safe Calls check in Kotlin </br>
+ - Elvis operator  in Kotlin </br>
+ - Arrays in Kotlin </br>
+ - Example of different types of array programs & its member functions  in Kotlin </br>
+ - For Loop in Kotlin </br>
+ - Object Oriented Programming in Kotlin </br>
+ - Class in Kotlin </br>
+ - Class structure and how to declare a class  in Kotlin </br>
+ - Class Variables/ Properties in Kotlin </br>
+ - Object in Kotlin </br>
+ - How to work with class object and access class's properties and functions in Kotlin </br>
+ - Class Constructors & parameters in class in Kotlin </br>
+ - Functions in Kotlin </br>
+ - How to create our own custom Functions in Kotlin </br>
+ - How to pass parameters inside a function in Kotlin </br>
+ - Return some value from a function in Kotlin </br>
+ - Inheritance in Kotlin </br>
+ - open keyword in Kotlin </br>
+ - Interfaces in Kotlin </br>
+ - Multiple Interfaces in Kotlin </br>
+ - Singleton class  in Kotlin </br>
+ - object keyword in Kotlin </br>
+ - Collection in Kotlin </br>
+ - List & Mutable List in Kotlin </br>
+ - For each loop in collections in Kotlin </br>
+ - Thanks from chief  </br>
+
+I hope you found this crash course helpful happy coding:)  be you be happy
+
+
 
 
 
