@@ -87,10 +87,12 @@ I hope you found this crash course helpful happy coding:)  be you be happy
 ## About Course Creator
 ### <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA/videos"> Sachin Rajput</a>
 
-I am a developer from India and I work with Android on daily basis and I love creating native Mobile apps which can help users and give a plesant experience :)<br/>
-I love contributing to Open Source community and I share my learnings and respective implementation on </br> my 
-Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> (Native Mobile Bits) </a> and on <a href="https://droid-lover.medium.com//">Medium publication</a> as well. 
-</br></br>
+Hi I work with Android on daily basis and I love creating native Mobile apps which can help users, I have around 6+ years of experience in which I developed multiple apps which are serving millions.<br/>
+I am on a mission to provide all necessarily concepts knowledge to students focused on Android and kotlin, at </br> my 
+Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> (Native Mobile Bits) </a> and at <a href="https://droid-lover.medium.com//">Medium publication</a> as well. </br>
+I love contributing to Open Source community and I share my learnings and respective implementation primarily focusing on Android+Kotlin.
+I am well versed with Kotlin & Java and now a days I primarily use Kotlin to build cool apps.
+
   In :heart: with <img src="https://github.com/myJarvis/EasyAnalytics/blob/master/images/android.png" alt="Android" width=20  height=30> </br> Open source contributor.
   
 Lets connect over here :) 
