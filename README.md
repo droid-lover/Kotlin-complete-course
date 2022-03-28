@@ -16,7 +16,8 @@ Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qy
 
 
 #### This project contains all esstenial KOTLIN PROGRAMMINS LANGUAGE concepts with examples 😃🚀 :
-<a href="https://youtu.be/4cryd3Cacro"> Kotlin crash-course content: </a> 
+<a href="https://youtu.be/4cryd3Cacro"> Kotlin crash-course content: </a> on my 
+Youtube Channel <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> (Native Mobile Bits) </a>
 
  - Introduction </br>
  - Kotlin origin & advantages </br>
