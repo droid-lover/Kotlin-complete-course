@@ -2,6 +2,7 @@ fun main() {
 
     //Arrays
     val numbers = arrayOf(1,2,3,4,5,6)
+
     val superheros = arrayOf("Ironman","spidy","hulk")
 
 
