@@ -22,6 +22,9 @@ class OurLinkedList<T> {
         }
     }
 
+    /**
+     *  Push an element at the start of the linkedlist
+     */
     fun pushElement(value: T) {
         head = Node(value, nextNode = head)
         if(tail == null){
@@ -29,4 +32,23 @@ class OurLinkedList<T> {
         }
         size+=1
     }
+
+    //10,20,30,40
+    /**
+     *  Append an element at the end of the linkedlist
+     */
+    fun appendElement(value: T){
+        //
+        if(isOurLinkedListEmpty()){
+            pushElement(value)
+            return
+        }
+        //10
+
+        tail?.nextNode = Node(value)
+        tail = tail?.nextNode
+        size+=1
+        //10,20,30,40
+    }
+
 }
