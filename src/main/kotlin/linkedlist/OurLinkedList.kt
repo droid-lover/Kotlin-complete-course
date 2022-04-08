@@ -46,6 +46,9 @@ class OurLinkedList<T> {
         size+=1
     }
 
+    /**
+     *  find a node at give index from the linkedlist
+     */
     fun findNodeAt(givenIndex :Int) : Node<T>? {
 
         var currentNode = head
@@ -59,5 +62,17 @@ class OurLinkedList<T> {
         return currentNode
     }
 
+    /**
+     *  insert a node after given node inside the linkedlist a
+     */
+    fun insertElement(value: T, afterNode:Node<T>){
+        if(afterNode == tail){
+            appendElement(value)
+            return
+        }
 
+        val node = Node(value, nextNode = afterNode.nextNode)
+        afterNode.nextNode = node
+        size+=1
+    }
 }
