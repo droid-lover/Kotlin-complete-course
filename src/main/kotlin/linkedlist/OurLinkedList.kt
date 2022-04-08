@@ -46,4 +46,18 @@ class OurLinkedList<T> {
         size+=1
     }
 
+    fun findNodeAt(givenIndex :Int) : Node<T>? {
+
+        var currentNode = head
+        var currentIndex = 0
+
+        while ( currentNode!=null && currentIndex<givenIndex) {
+            currentNode = currentNode.nextNode
+            currentIndex+=1
+        }
+
+        return currentNode
+    }
+
+
 }
