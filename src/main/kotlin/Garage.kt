@@ -1,3 +1,4 @@
+import java.util.TreeMap
 
 fun main(){
 
@@ -34,4 +35,15 @@ fun main(){
     println(set.elementAt(0))
     println(set1.elementAt(set.size-1))
     println(set1.elementAt(0))
+
+
+    val hashMap = hashMapOf<Char,Int>() //order is not maintained
+    val map = java.util.LinkedHashMap<Char,Int>() //ordered
+    "hashMapS".forEach {
+        hashMap.put(it, "hashMapS".count{char-> char == it})
+        map.put(it, "hashMapS".count{char-> char == it})
+    }
+
+    println(hashMap.toString())
+    println(map.toString())
 }
