@@ -27,6 +27,9 @@ fun main(){
     println(set)
     println(set1)
 
+    //set.add(4)
+    set1.add(4)
+
     println(set.elementAt(set.size-1))
     println(set.elementAt(0))
     println(set1.elementAt(set.size-1))
